@@ -1,4 +1,5 @@
-## Teori dan Aplikasi Pengukuran Psikologi
+## Teori dan Aplikasi 
+## Pengukuran Psikologi
 
 You can use the [editor on GitHub](https://github.com/wahyupsy/measurement/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
