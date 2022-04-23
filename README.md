@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Measurement in Pscyhology
 
 You can use the [editor on GitHub](https://github.com/wahyupsy/measurement/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
