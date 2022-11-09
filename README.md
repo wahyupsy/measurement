@@ -20,7 +20,7 @@
 
 <h3 style="text-align: left;">Prosedur Pengembangan Alat Ukur</h3><p style="text-align: left;"></p><ul style="text-align: left;"><li><a href="https://www.youtube.com/watch?v=tMAYsbd-R9s" target="_blank">Jumlah Butir Skala Psikologi</a></li></ul><p></p><div><br /></div><div><br /></div><div><br /></div>
 
-<h3 style="text-align: left;">Analisis Butir dan Properti Psikometris</h3><div><ul style="text-align: left;"><li><a href="https://www.youtube.com/watch?v=7Yi6kL8oTZU" target="_blank">Properti Psikometris Teori Tes Klasik</a></li></ul></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>
+<h3 style="text-align: left;">Analisis Butir dan Properti Psikometris</h3><div><ul style="text-align: left;"><li><a href="https://www.youtube.com/watch?v=7Yi6kL8oTZU" target="_blank">Properti Psikometris Teori Tes Klasik</a></li></ul></div>
 
 
 <h3 style="text-align: left;">Analisis Butir dan Properti Psikometris</h3><div><ul style="text-align: left;">
