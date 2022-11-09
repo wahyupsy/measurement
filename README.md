@@ -18,9 +18,21 @@
 <h3 style="text-align: left;">Penskalaan</h3><div><p style="text-align: left;"></p>
 <div><ul style="text-align: left;"><li><a href="https://www.youtube.com/watch?v=k8KhQwRToq0">Penskalaan dalam Ilmu Sosial</a></li><li><a href="https://www.youtube.com/watch?v=sL8I_AW3OpU" target="_blank">Skala Likert</a></li><li><a href="https://www.youtube.com/watch?v=Ph3YeBukTDE" target="_blank">Skala Thurstone</a></li><li><a href="https://www.youtube.com/watch?v=XslfIfGkWU4" target="_blank">Salah kaprah penggunaan Method of Successive Intervals (MSI)</a></li></ul></div><div><br /></div>
 
-<h3 style="text-align: left;">Prosedur Pengembangan Alat Ukur</h3><p style="text-align: left;"></p><ul style="text-align: left;"><li><a href="https://www.youtube.com/watch?v=tMAYsbd-R9s" target="_blank">Jumlah Butir Skala Psikologi</a></li></ul><p></p><div><br /></div><div><br /></div><div><br /></div>
+<h3 style="text-align: left;">Prosedur Pengembangan Alat Ukur</h3><p style="text-align: left;"></p><ul style="text-align: left;"><li><a href="https://www.youtube.com/watch?v=tMAYsbd-R9s" target="_blank">Jumlah Butir Skala Psikologi</a></li></ul><p></p><div><br /></div>
 
 <h3 style="text-align: left;">Analisis Butir dan Properti Psikometris</h3><div><ul style="text-align: left;"><li><a href="https://www.youtube.com/watch?v=7Yi6kL8oTZU" target="_blank">Properti Psikometris Teori Tes Klasik</a></li></ul></div>
 
 
 <h3 style="text-align: left;">Analisis Butir dan Properti Psikometris</h3><div><ul style="text-align: left;">
+<p><a href="https://archive.org/details/pengantar-analisis-faktor" target="_blank">Pengantar Analisis Faktor</a></p>
+
+<p><a href="https://archive.org/download/makna-gambar-sem/Makna%20Gambar%20SEM.pdf" target="_blank">Makna Gambar dalam SEM</a></p>
+
+<p><a href="https://archive.org/download/contoh-penelitian-menggunakan-analisis-faktor/Contoh%20Penelitian%20Menggunakan%20Analisis%20Faktor.pdf" target="_blank">Contoh Penelitian Menggunakan Analisis Faktor</a></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+  
+  
+  
