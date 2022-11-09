@@ -25,12 +25,16 @@
   
 <h3 style="text-align: left;">Pengantar Analisis Faktor</h3><p style="text-align: left;"></p><ul style="text-align: left;">
 <p><a href="https://archive.org/download/pengantar-analisis-faktor/Pengantar%20Analisis%20Faktor.pdf" target="_blank">Pengantar Analisis Faktor</a></p>
+
 <p><a href="https://archive.org/download/makna-gambar-sem/Makna%20Gambar%20SEM.pdf" target="_blank">Makna Gambar dalam SEM</a></p>
+
 <p><a href="https://archive.org/download/contoh-penelitian-menggunakan-analisis-faktor/Contoh%20Penelitian%20Menggunakan%20Analisis%20Faktor.pdf" target="_blank">Contoh Penelitian Menggunakan Analisis Faktor</a></p>
 
+<p><a href="https://archive.org/download/beberapa-kasus-dalam-analisis-faktor/Beberapa%20Kasus%20dalam%20Analisis%20Faktor.pdf">Beberapa Kasus dalam Analisis Faktor</a></p>
+
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
-  
+
   
   
