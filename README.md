@@ -23,7 +23,7 @@
 <h3 style="text-align: left;">Analisis Butir dan Properti Psikometris</h3><div><ul style="text-align: left;"><li><a href="https://www.youtube.com/watch?v=7Yi6kL8oTZU" target="_blank">Properti Psikometris Teori Tes Klasik</a></li></ul></div>
 
 
-<h3 style="text-align: left;">Analisis Butir dan Properti Psikometris</h3><div><ul style="text-align: left;">
+<h3 style="text-align: left;">Analisis Faktor</h3><div><ul style="text-align: left;">
 <p><a href="https://archive.org/details/pengantar-analisis-faktor" target="_blank">Pengantar Analisis Faktor</a></p>
 
 <p><a href="https://archive.org/download/makna-gambar-sem/Makna%20Gambar%20SEM.pdf" target="_blank">Makna Gambar dalam SEM</a></p>
