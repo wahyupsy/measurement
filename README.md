@@ -36,5 +36,9 @@
 
 <p>&nbsp;</p>
 
-  
+<h3 style="text-align: left;"> Data Latihan</h3><div><p style="text-align: left;"></p>
+
+
+ <p><a href=" https://simpan.ugm.ac.id/s/8YNaSoVh0Gcy4Y5"> Data HolzingerSwineford1939.xlsx</a></p>
+
   
